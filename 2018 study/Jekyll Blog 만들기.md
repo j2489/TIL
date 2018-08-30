@@ -3,8 +3,8 @@ Study Day1 (20180829)
 
 ## Jekyll Blog 만들기
 - zero부터 작성도 가능하지만 기존의 테마를 이용하면 손 쉽게 작성 가능 
-  ※ 테마 사이트 : <http://jekyllthemes.org>
-- 반드시 확장자명 .md를 붙여줘야 한다
+> ※ 테마 사이트 : <http://jekyllthemes.org>
+- 반드시 확장자명 .md를 붙여줘야 한다 (.md 안 붙이고 왜 스타일 적용이 안되나... 했었다...)
 
 
 ## Jekyll Blog의 장점
