@@ -11,14 +11,14 @@ public class practice {
 		 
 	}
 
-	
+	// 변수 i, j의 최대공약수를 구하는 재귀함수 
 	public static int gcd(int i, int j) {
 		if (j==0)
 			return	i;
 		else
 			return gcd(j, j%i);
 	}
-	
+	// 문자형 변수 str을 거꾸로 프린트하는 
 	public static void print (String str) {
 		if(str.equals(""))
 			return;
